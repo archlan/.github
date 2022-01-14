@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Released%3F-BETA-pink?style=flat-circle">
   <img src="https://img.shields.io/github/downloads/archlan/releases/total?style=social">
   <img src="https://img.shields.io/github/stars/archlan/iso?style=flat-circle&color=pink">
-  <img src="https://img.shields.io/github/issues/archlan/iso?color=purple&style=flat-circle">
+  <img src="https://img.shields.io/github/issues/archlan/issue-tracker?color=purple&style=flat-circle">
 </p>
 
 <p align="center">
