@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-<a href="https://www.archlinux.org">Arch</a> based distribution, from school project to a fully-featured distro.
+<a href="https://www.archlinux.org">Arch</a> based, from school project to a fully-featured distro.
 </p>
