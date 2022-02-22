@@ -1,4 +1,4 @@
-# <p align="center">ArchLan Linux</p>
+# <p align="center">ArchLan</p>
 
 <p align="center">
 <a href="https://archlan.github.io"><img src="https://raw.githubusercontent.com/archlan/assets/main/img/logo/128x128_logo.svg" height="128" width="128" alt="ArchLan"></a>
